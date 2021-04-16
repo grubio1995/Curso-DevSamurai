@@ -1,2 +1,2 @@
 # Curso-Devsamurai
-Repositório separado por assuntos, onde ficaram os exercícios propostos durante o curso
+Repositório separado por assuntos, onde ficarão os exercícios propostos durante o curso
