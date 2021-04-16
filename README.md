@@ -7,7 +7,7 @@ Repositório onde ficarão os exercícios propostos durante o curso
 * Programar do zero <br />
   Conceitos e aplicações básicas focado em desenvolvimento web, com o intuito de relembrar e aprender novos assuntos
 
-# Tecnologias necessárias:
+# Requisitos:
 
 * Navegador de preferência (utilizo o Chrome)
 * Editor de texto (recomendo sublime texto) ou IDE de preferência (VS Code é uma boa opção)
