@@ -1,4 +1,4 @@
-# Curso-DevSamurai: Trilha - Programar do zero
+# Curso-DevSamurai:
 
 Repositório onde ficarão os exercícios propostos durante o curso
 
