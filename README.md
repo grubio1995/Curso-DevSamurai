@@ -2,7 +2,7 @@
 
 Repositório onde ficarão os exercícios propostos durante o curso
 
-# Trilha
+# Trilhas:
 
 * Programar do zero <br />
   Conceitos e aplicações básicas focado em desenvolvimento web, com o intuito de relembrar e aprender novos assuntos
