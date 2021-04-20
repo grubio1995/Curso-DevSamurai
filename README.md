@@ -10,7 +10,7 @@ Repositório onde ficarão os exercícios propostos durante o curso
 # Requisitos:
 
 * Navegador de preferência (utilizo o Chrome)
-* Editor de texto (recomendo sublime texto) ou IDE de preferência (VS Code é uma boa opção)
+* Editor de texto (recomendo sublime texto) ou rditor de código (VS Code é uma boa opção)
 
 # Preparação
 
