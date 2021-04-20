@@ -10,7 +10,7 @@ Repositório onde ficarão os exercícios propostos durante o curso
 # Requisitos:
 
 * Navegador de preferência (utilizo o Chrome)
-* Editor de texto (recomendo sublime texto) ou rditor de código (VS Code é uma boa opção)
+* Editor de texto (recomendo sublime texto) ou editor de código (VS Code é uma boa opção)
 
 # Preparação
 
@@ -19,5 +19,5 @@ Repositório onde ficarão os exercícios propostos durante o curso
 ```shell
 git clone https://github.com/grubio1995/Curso-DevSamurai
 ```
-<b>Rodar as páginas html, caso deseje fazer alguma modificação ou melhoria utilizar um editor de texto ou IDE de preferência</b>
+<b>Rodar as páginas html, caso deseje fazer alguma modificação ou melhoria utilizar um editor de texto ou editor de código de preferência</b>
 
